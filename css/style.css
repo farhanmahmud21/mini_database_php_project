@@ -1,0 +1,38 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.search-box {
+    margin: 20px 0;
+}
+
+.pagination {
+    margin-top: 20px;
+}
+
+.table-responsive {
+    margin-top: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.btn-back {
+    margin-bottom: 20px;
+}
+
+.detail-view {
+    padding: 20px;
+}
+
+.error-message {
+    color: red;
+    margin: 10px 0;
+}
+
+.success-message {
+    color: green;
+    margin: 10px 0;
+}
